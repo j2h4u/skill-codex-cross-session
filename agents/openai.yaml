@@ -1,0 +1,3 @@
+interface:
+  display_name: "Codex Cross Session"
+  short_description: "Coordinate safely between Codex sessions"
